@@ -32,7 +32,18 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.product {
+  background-color: blueviolet;
+  padding: 10px;
+  border-radius: 10px;
+  width: 50%;
+  margin: 10px auto;
+  border: 3px solid rgb(4, 3, 103);
+  color: white;
 }
